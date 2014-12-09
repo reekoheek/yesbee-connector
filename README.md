@@ -2,12 +2,39 @@
 
 ```javascript
 this.from('yesbee://0.0.0.0:10000/sendEmail') // use http://
-.to('smpt://localhost');
+.to('smtp://localhost');
 ```
 
 ```php
 $yesbeeConnector = Yesbee::factory('192.168.1.10', '10000');
 $yesbeeConnector->post('/sendEmail', array(
+'anu'
+));
+
+$exchange = $yesbeeConnector
+->exchange(array(
+// body
+))
+->header('da', 'da')
+->send('/sendEmail');
+```
+
+```javascript
+
+this.from('http://localhost:3000')
+    .to(function() {
+        // process billing
+    })
+
+this.from('direct:digitalItems')
+    .to(function() {
+        // process digital items
+    })
+```
+
+```php
+$yesbeeConnector = Yesbee::factory('192.168.1.10', '10000');
+$yesbeeConnector->send('direct:digitalItems', array(
 'anu'
 ));
 
@@ -184,7 +211,7 @@ emit('paid', {})
 ## Not used
 REQ:
 ```
-GET /initiate 
+GET /initiate
 # Content-Type: application/json
 
 Body:

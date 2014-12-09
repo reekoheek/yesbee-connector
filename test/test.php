@@ -36,6 +36,8 @@ use Guzzle\Http\Client;
 // $req = $client->get('http://localhost/a.php', array(), array('a' => 'anu', 'b' => 'bau'));
 // print_r($client->send($req)->json());
 
-$client = Yesbee::factory('http://localhost');
-$res = $client->exchange(array('a' => 'anu', 'b' => 'bau'))->send('/a.php');
+
+$client = Yesbee::factory('http://localhost/a.php');
+$res = $client->exchange(array('a' => 'anu', 'b' => 'bau'))->send();
+
 print_r($res->json());

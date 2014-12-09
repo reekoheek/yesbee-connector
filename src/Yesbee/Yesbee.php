@@ -143,12 +143,13 @@ class Yesbee
     public function sendPost($data)
     {
     	$this->uri = $this->options['base_url'] . $this->uri;
-    	$this->request = $this->client->post($this->uri);
 
-    	if($data['body']) {
-    		$this->request = $this->client->post($this->uri, array(), $data['body']);
-    	} else {
-    		$this->request = $this->client->post($this->uri);
+		$this->request = $this->client->post($this->uri, array(
+            'content-type' => 'application/json'
+        ), array());
+
+        if($data['body']) {
+            $this->request->setBody(json_encode($data['body']));
     	}
 
     	if($data['headers']) {

@@ -50,7 +50,7 @@ class Yesbee
     protected $body = array();
     protected $header = array();
 
-    public function factory($opt = null, $port = null)
+    public static function factory($opt = null, $port = null)
     {
     	$config = array();
     	if((is_string($opt) && $opt !== null) && $port !== null) {

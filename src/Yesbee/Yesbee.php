@@ -37,6 +37,7 @@
 namespace Yesbee;
 
 use Guzzle\Http\Client;
+use JsonKit\JsonKit;
 
 class Yesbee
 {
@@ -149,7 +150,7 @@ class Yesbee
         ), array());
 
         if($data['body']) {
-            $this->request->setBody(json_encode($data['body']));
+            $this->request->setBody(JsonKit::encode($data['body']));
     	}
 
     	if($data['headers']) {

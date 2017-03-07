@@ -4,516 +4,516 @@
 		"selected_items":
 		[
 			[
-				"para",
-				"parameter"
+				"with",
+				"withCollection"
 			],
 			[
-				"request",
-				"requestid"
+				"attr",
+				"attributeNameUnderscored"
 			],
 			[
-				"metho",
-				"methodName"
+				"textC",
+				"textContentData"
 			],
 			[
-				"tr",
-				"trx"
+				"get_ar",
+				"func_get_args"
 			],
 			[
-				"strto",
-				"strtolower"
+				"res",
+				"resolver"
 			],
 			[
-				"prnt",
-				"print_r"
+				"pat",
+				"patternAsRegex"
 			],
 			[
-				"re",
-				"result"
+				"err",
+				"error_code"
 			],
 			[
-				"pritn",
-				"print_r"
+				"tem",
+				"templateFile"
 			],
 			[
-				"to",
-				"toArray"
+				"arg",
+				"func_num_args"
 			],
 			[
-				"mode",
-				"model"
+				"forea",
+				"foreach	foreach …"
 			],
 			[
-				"Bill",
-				"Billing"
+				"debug",
+				"debug_print_backtrace"
 			],
 			[
-				"pubi",
-				"public"
+				"over",
+				"overwrite"
 			],
 			[
-				"bill",
-				"billcode"
+				"getView",
+				"getViewPaths"
 			],
 			[
-				"reque",
-				"requestid"
+				"getVi",
+				"getViewPaths"
 			],
 			[
-				"json",
-				"json_encode"
+				"list",
+				"list-style"
 			],
 			[
-				"che",
-				"checkout"
+				"sw",
+				"swap"
+			],
+			[
+				"is_in",
+				"is_integer"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"users",
+				"usersBaseQueueSlug"
+			],
+			[
+				"filte",
+				"filterChain"
+			],
+			[
+				"ticke",
+				"ticketName"
+			],
+			[
+				"paren",
+				"parentUserQueue"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"border-co",
+				"border-collapse"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"q",
+				"qCriteria"
+			],
+			[
+				"qu",
+				"queues"
+			],
+			[
+				"str_er",
+				"str_replace"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"last",
+				"lastPage"
+			],
+			[
+				"ski",
+				"skip1"
+			],
+			[
+				"http_buil",
+				"http_build_query"
+			],
+			[
+				"his",
+				"historyItem"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"las",
+				"lastSkip"
+			],
+			[
+				"rawurl",
+				"rawurlencode"
+			],
+			[
+				"stat",
+				"statusCollection"
 			],
 			[
 				"for",
 				"foreach	foreach …"
 			],
 			[
-				"sta",
-				"staus"
+				"tas",
+				"taskCollection"
 			],
 			[
-				"stat",
-				"status"
+				"env",
+				"environment"
 			],
 			[
-				"Core",
-				"CoreAcquirerProvider"
+				"entr",
+				"entry"
 			],
 			[
-				"ex",
-				"exit"
-			],
-			[
-				"loca",
-				"localhost"
-			],
-			[
-				"exc",
-				"exchange"
-			],
-			[
-				"sock",
-				"socketsRef"
-			],
-			[
-				"exha",
-				"exchange"
-			],
-			[
-				"so",
-				"socketsRef"
-			],
-			[
-				"echo",
-				"echo"
-			],
-			[
-				"pro",
-				"proxy"
-			],
-			[
-				"soc",
-				"socketId"
+				"parent",
+				"parentName"
 			],
 			[
 				"con",
-				"context"
+				"controllerConfig"
 			],
 			[
-				"add",
-				"addHandler"
+				"getFor",
+				"getForeignLabel"
 			],
 			[
-				"in",
-				"instanceof"
+				"en",
+				"entries"
 			],
 			[
-				"socke",
-				"socketio"
+				"fore",
+				"foreignKey"
 			],
 			[
-				"get",
-				"getService"
+				"getFOre",
+				"getForeignKey"
 			],
 			[
-				"htt",
-				"httpService"
+				"ma",
+				"matchOrs"
 			],
 			[
-				"even",
-				"eventName"
+				"s",
+				"schema"
 			],
 			[
-				"ser",
-				"server"
+				"math",
+				"matchWheres"
 			],
 			[
-				"popul",
-				"populateServices"
+				"mat",
+				"matchWheres"
 			],
 			[
-				"prot",
-				"prototype"
+				"oci_fet",
+				"oci_fetch_all"
 			],
 			[
-				"clo",
-				"clonedExchange"
+				"cu",
+				"cursor"
 			],
 			[
-				"lo",
-				"log"
+				"or",
+				"orCriteria"
 			],
 			[
-				"cha",
-				"channelType"
+				"json_",
+				"json_decode"
 			],
 			[
-				"ec",
-				"echo"
+				"coll",
+				"collectionName"
 			],
 			[
-				"scro",
-				"scrolling"
+				"col",
+				"collection"
 			],
 			[
-				"res",
-				"result"
+				"conn",
+				"connectionOptions"
 			],
 			[
-				"pa",
-				"page"
+				"tab",
+				"tableExist"
 			],
 			[
-				"key",
-				"keyword"
+				"collec",
+				"collectionName"
 			],
 			[
-				"cn",
-				"config"
+				"newF",
+				"newFields"
 			],
 			[
-				"dic",
-				"dictionary"
+				"is",
+				"isUpdated"
 			],
 			[
-				"app",
-				"append"
+				"new",
+				"newFields"
 			],
 			[
-				"NS",
-				"NSString"
+				"exi",
+				"existingField"
 			],
 			[
-				"user",
-				"username"
+				"newFie",
+				"newFields"
 			],
 			[
-				"tw",
-				"twitter"
+				"schem",
+				"schemaField"
 			],
 			[
-				"Jso",
-				"JSONException"
+				"sche",
+				"schemaField"
 			],
 			[
-				"F",
-				"FACEBOOK"
+				"ex",
+				"existingField"
 			],
 			[
-				"JSO",
-				"JSONObject"
+				"get_cl",
+				"get_called_class"
 			],
 			[
-				"show",
-				"showMessage"
+				"sc",
+				"schemaField"
 			],
 			[
-				"do",
-				"documentsDirectory"
+				"colle",
+				"collectionName"
 			],
 			[
-				"ca",
-				"cachePath"
+				"preg_re",
+				"preg_replace_all"
 			],
 			[
-				"E",
-				"Exception"
+				"rebuil",
+				"rebuildTree"
 			],
 			[
-				"set",
-				"setText"
+				"fo",
+				"foundOnly"
 			],
 			[
-				"__",
-				"__bundle"
+				"is_s",
+				"is_string"
 			],
 			[
-				"update",
-				"updated"
+				"co",
+				"collectionSchema"
 			],
 			[
-				"cons",
-				"console"
+				"FET",
+				"FETCH_RAW"
 			],
 			[
-				"fun",
-				"function"
+				"mod",
+				"modified"
 			],
 			[
-				"App",
-				"AppData"
+				"o",
+				"observer"
 			],
 			[
-				"bund",
-				"bundling"
+				"obse",
+				"observe"
 			],
 			[
-				"NSMu",
-				"NSMutableString"
+				"array_key",
+				"array_key_exists"
 			],
 			[
-				"err",
-				"error"
+				"rul",
+				"ruleChain"
 			],
 			[
-				"ali",
-				"alkitab"
+				"func_",
+				"func_num_args"
 			],
 			[
-				"wh",
-				"whoami"
+				"fet",
+				"fetchType"
 			],
 			[
-				"li",
-				"listFiles"
-			],
-			[
-				"file",
-				"filesCount"
-			],
-			[
-				"use",
-				"user"
-			],
-			[
-				"er",
-				"error"
-			],
-			[
-				"up",
-				"updated"
-			],
-			[
-				"down",
-				"downloads"
-			],
-			[
-				"Down",
-				"download"
-			],
-			[
-				"string",
-				"stringByAppendingString"
-			],
-			[
-				"th",
-				"that"
-			],
-			[
-				"pu",
-				"put"
-			],
-			[
-				"JSON",
-				"JSONArray"
-			],
-			[
-				"sq",
-				"sqls"
-			],
-			[
-				"resp",
-				"responseText"
-			],
-			[
-				"def",
-				"def"
-			],
-			[
-				"sql",
-				"sqls"
-			],
-			[
-				"print",
-				"print_r"
+				"fe",
+				"fetchType"
 			],
 			[
 				"arr",
-				"array"
+				"arrObj"
 			],
 			[
-				"dir",
-				"direct"
+				"of",
+				"offset"
 			],
 			[
-				"data",
-				"dataList"
+				"array_me",
+				"array_merge"
 			],
 			[
-				"DB",
-				"DB_NAME"
+				"fiel",
+				"fieldDefinitions"
 			],
 			[
-				"D",
-				"DBPATH"
+				"sch",
+				"schemaConfig"
 			],
 			[
-				"fin",
-				"finally"
+				"var",
+				"var_dump"
 			],
 			[
-				"chap",
-				"chapters"
+				"array_ke",
+				"array_key_exists"
 			],
 			[
-				"_",
-				"_loadingLabel"
+				"defa",
+				"defaultBowerOptions"
 			],
 			[
-				"Sho",
-				"showDialog"
+				"bower",
+				"bowerConfig"
 			],
 			[
-				"bu",
-				"bulks"
+				"regi",
+				"registries"
 			],
 			[
-				"call",
-				"callback"
+				"reg",
+				"registries"
 			],
 			[
-				"bundleI",
-				"bundleId"
+				"re",
+				"registries"
 			],
 			[
-				"tmp",
-				"tmpDir"
+				"grunt-c",
+				"grunt-contrib-clean"
 			],
 			[
-				"extra",
-				"extract"
+				"contr",
+				"contribCleanConfig"
 			],
 			[
-				"imp",
-				"import"
+				"pre",
+				"pre-line"
 			],
 			[
-				"magni",
-				"magnify-factor"
+				"wid",
+				"width"
 			],
 			[
-				"ap",
-				"appData"
+				"pad",
+				"padding"
 			],
 			[
-				"CDV",
-				"CDVInvokedUrlCommand"
+				"bgc",
+				"bgcolor-none"
 			],
 			[
-				"CD",
-				"CDVInvokedUrlCommand"
+				"padding",
+				"padding-top"
 			],
 			[
-				"Nstr",
-				"NSString"
+				"bg",
+				"bgcolor-none"
 			],
 			[
-				"par",
-				"params"
-			],
-			[
-				"op",
-				"openDataBase"
-			],
-			[
-				"stirng",
-				"stringByAppendingString"
-			],
-			[
-				"Extra",
-				"extracted"
-			],
-			[
-				"skel",
-				"skelDir"
-			],
-			[
-				"En",
-				"ENVIRONMENT"
-			],
-			[
-				"de",
-				"defined"
-			],
-			[
-				"bun",
-				"bundle"
-			],
-			[
-				"arg",
-				"args"
-			],
-			[
-				"Json",
-				"JSONArray"
-			],
-			[
-				"cli",
-				"clickCount"
-			],
-			[
-				"click",
-				"clickCount"
-			],
-			[
-				"book",
-				"bookmark"
-			],
-			[
-				"pinch",
-				"pinchStatus"
-			],
-			[
-				"pin",
-				"pinchIn"
-			],
-			[
-				"tou",
-				"touchend"
-			],
-			[
-				"ver",
-				"verse"
-			],
-			[
-				"cosn",
-				"console"
+				"back",
+				"background-color"
 			],
 			[
 				"pos",
 				"position"
 			],
 			[
-				"has",
-				"hasClass"
+				"border",
+				"border-light"
 			],
 			[
-				"len",
-				"length"
+				"pack",
+				"packageWrite"
+			],
+			[
+				"packa",
+				"packageWrite"
+			],
+			[
+				"OPT",
+				"OPT_FORCE"
+			],
+			[
+				"pac",
+				"package"
+			],
+			[
+				"cEc",
+				"cEchoH3"
+			],
+			[
+				"cEch",
+				"cEchoH2"
+			],
+			[
+				"cEcho",
+				"cEchoH1"
+			],
+			[
+				"to",
+				"toCheck"
+			],
+			[
+				"chec",
+				"checkboxes"
+			],
+			[
+				"mouse",
+				"mouseenter"
+			],
+			[
+				"coo",
+				"cookie_expire"
+			],
+			[
+				"acce",
+				"accepting"
+			],
+			[
+				"instance",
+				"instanceof"
+			],
+			[
+				"user_f",
+				"call_user_func_array"
+			],
+			[
+				"Filter",
+				"FilterError"
+			],
+			[
+				"method",
+				"method_exists"
+			],
+			[
+				"is_n",
+				"is_numeric"
 			]
 		]
 	},
@@ -523,19 +523,87 @@
 			"file": "src/Yesbee/Yesbee.php",
 			"settings":
 			{
-				"buffer_size": 4930,
+				"buffer_size": 4962,
 				"line_ending": "Unix"
 			}
 		}
 	],
-	"build_system": "node-build",
+	"build_system": "",
 	"command_palette":
 	{
-		"height": 367.0,
+		"height": 312.0,
 		"selected_items":
 		[
 			[
+				"close",
+				"File: Close All"
+			],
+			[
+				"space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown GFM"
+			],
+			[
 				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"lore",
+				"LoremIpsum: (200) stick shake"
+			],
+			[
+				"blade",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"twig",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"twi",
+				"Set Syntax: HTML (Twig)"
+			],
+			[
+				"isntal",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"spa",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"lorem",
+				"LoremIpsum: (200) stick shake"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javasc",
 				"Set Syntax: JavaScript"
 			],
 			[
@@ -543,65 +611,95 @@
 				"Package Control: Install Package"
 			],
 			[
-				"json",
-				"Set Syntax: JSON"
+				"glue",
+				"Glue - Launch"
 			],
 			[
-				"java",
-				"Set Syntax: Java"
+				"glu",
+				"Glue - Launch"
 			],
 			[
-				"objec",
-				"Set Syntax: Objective-C"
-			],
-			[
-				"space",
-				"Indentation: Convert to Spaces"
-			],
-			[
-				"jsh",
-				"JSHint"
-			],
-			[
-				"jshi",
-				"JSHint"
-			],
-			[
-				"remove",
-				"Package Control: Remove Package"
-			],
-			[
-				"packa",
-				"Package Control: Disable Package"
-			],
-			[
-				"javasc",
-				"Set Syntax: JavaScript"
-			],
-			[
-				"setting",
-				"Preferences: Settings - User"
-			],
-			[
-				"user",
-				"Preferences: Settings - User"
-			],
-			[
-				"INSTALL",
+				"insta",
 				"Package Control: Install Package"
 			],
 			[
-				"settig",
-				"Preferences: Settings - User"
+				"gitstau",
+				"Git: Status"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"bas",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Add Channel"
+			],
+			[
+				"cop",
+				"Insert Copyright"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"co",
+				"Insert Copyright"
+			],
+			[
+				"",
+				"Set Syntax: HTML (Tcl)"
+			],
+			[
+				"meas",
+				"Measure"
+			],
+			[
+				"mea",
+				"Measure"
+			],
+			[
+				"me",
+				"Measure"
+			],
+			[
+				"Snippet: ",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
 			]
 		],
 		"width": 467.0
 	},
 	"console":
 	{
-		"height": 126.0,
+		"height": 125.0,
 		"history":
 		[
+			"print version()",
+			"print 'a'",
+			"print \"a\"",
+			"print a",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print('Please restart Sublime Text to finish installation')",
+			"print version()"
 		]
 	},
 	"distraction_free":
@@ -615,215 +713,174 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/faridhidayat/Workspace/web/project/mcoin/yesbee-connector",
-		"/Users/faridhidayat/Workspace/web/project/mcoin/yesbee-connector/src",
-		"/Users/faridhidayat/Workspace/web/project/mcoin/yesbee-connector/src/Yesbee"
+		"/home/jafar/workspaces/php/lib/yesbee-connector"
 	],
 	"file_history":
 	[
-		"/Users/faridhidayat/Workspace/web/project/mcoin/checkout-system/www/vendor/jquery/src/manipulation.js",
-		"/Users/faridhidayat/Workspace/web/project/mcoin/checkout-system/vendor/guzzle/guzzle/src/Guzzle/Http/Exception/TooManyRedirectsException.php",
-		"/Users/faridhidayat/Workspace/web/project/mcoin/checkout-system/vendor/guzzle/guzzle/src/Guzzle/Log/MonologLogAdapter.php",
-		"/Users/faridhidayat/Workspace/web/project/mcoin/checkout-system/pax_templates/Migrate.php",
-		"/Users/faridhidayat/Workspace/web/project/mcoin/checkout-system/src/App/Controller/CheckoutController.php",
-		"/Users/faridhidayat/Workspace/web/project/mcoin/core-acquirer/config/collections/Merchant.php",
-		"/Users/faridhidayat/Workspace/web/project/mcoin/core-acquirer/templates/_schema/fee_structure/input.blade.php",
-		"/Users/faridhidayat/Workspace/web/project/mcoin/core-acquirer/templates/merchant/read.blade.php",
-		"/Users/faridhidayat/Workspace/web/project/mcoin/core-acquirer/config/config.php",
-		"/Users/faridhidayat/Workspace/web/project/mcoin/core-acquirer/src/MCoin/Provider/CoreAcquirerProvider.php",
-		"/Users/faridhidayat/Workspace/web/project/mcoin/core-acquirer/config/collections/Billing.php",
-		"/Users/faridhidayat/Workspace/web/project/mcoin/core-acquirer/config/collections/Transaction.php",
-		"/Users/faridhidayat/Workspace/web/project/mcoin/core-acquirer/vendor/xinix-technology/norm/src/Norm/Schema/UnsafeString.php",
-		"/Users/faridhidayat/Workspace/web/project/mcoin/core-acquirer/vendor/xinix-technology/norm/src/Norm/Schema/NormArray.php",
-		"/Users/faridhidayat/Workspace/web/project/mcoin/core-acquirer/vendor/xinix-technology/norm/src/Norm/Schema/Boolean.php",
-		"/Users/faridhidayat/Workspace/web/project/mcoin/core-acquirer/vendor/xinix-technology/norm/src/Norm/Collection.php",
-		"/Users/faridhidayat/Workspace/web/project/mcoin/core-acquirer/vendor/xinix-technology/norm/src/Norm/Controller/NormController.php",
-		"/Users/faridhidayat/Workspace/web/project/mcoin/core-acquirer/vendor/xinix-technology/norm/src/Norm/Norm.php",
-		"/Users/faridhidayat/Workspace/web/project/mcoin/core-acquirer/vendor/xinix-technology/norm/src/Norm/Cursor/MemoryCursor.php",
-		"/Users/faridhidayat/Workspace/web/project/mcoin/core-acquirer/vendor/reekoheek/bono-auth/src/ROH/BonoAuth/Driver/NormAuth.php",
-		"/Users/faridhidayat/Workspace/web/project/mcoin/core-acquirer/templates/_schema/fee_structure/readonly.blade.php",
-		"/Users/faridhidayat/Workspace/web/project/mcoin/core-acquirer/src/MCoin/Schema/FeeStructure.php",
-		"/Users/faridhidayat/Workspace/web/project/mcoin/core-acquirer/config/collections/DigitalItemDetail.php",
-		"/Users/faridhidayat/Workspace/web/project/mcoin/core-acquirer/config/collections/DigitalItem.php",
-		"/Users/faridhidayat/Workspace/web/project/mcoin/core-acquirer/www/templateupload/digital-item-detail.csv",
-		"/Users/faridhidayat/Workspace/web/project/mcoin/core-acquirer/templates/merchant/billing/create.blade.php",
-		"/Users/faridhidayat/Workspace/web/project/mcoin/core-acquirer/vendor/guzzle/guzzle/src/Guzzle/Batch/BatchInterface.php",
-		"/Users/faridhidayat/Workspace/web/project/mcoin/core-acquirer/bower.json",
-		"/Users/faridhidayat/Workspace/web/project/mcoin/core-acquirer/templates/merchant/checkout.blade.php",
-		"/Users/faridhidayat/Workspace/web/project/mcoin/core-acquirer/config/collections/Checkout.php",
-		"/Users/faridhidayat/Workspace/web/project/mcoin/core-acquirer/src/MCoin/Controller/CheckoutController.php",
-		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/src/MCoin/Schema/FeeStructure.php",
-		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/templates/merchant/checkout.blade.php",
-		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/config/collections/Checkout.php",
-		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/src/MCoin/Controller/CheckoutController.php",
-		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/www/vendor/pants/js/pants.js",
-		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/www/vendor/pants/pants.html",
-		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/www/vendor/pants-autocomplete/pants-autocomplete.html",
-		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/package.json",
-		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/src/MCoin/Observer/StoreObserver.php",
-		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/templates/merchant/read.blade.php",
-		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/src/MCoin/Observer/GenerateCodeObserver.php",
-		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/config/collections/CounterCode.php",
-		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/config/config.php",
-		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/config/collections/Merchant.php",
-		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/config/collections/MerchantRole.php",
-		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/pax_templates/Migrate.php",
-		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/templates/merchant/search.blade.php",
-		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/templates/merchant/create.blade.php",
-		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/config/collections/StoreCategory.php",
-		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/config/collections/Country.php",
-		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/templates/merchant/store/create.blade.php",
-		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/src/MCoin/Provider/LoginProvider.php",
-		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/templates/layout.blade.php",
-		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/vendor/xinix-technology/norm/src/Norm/Filter/FilterException.php",
-		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/cache/f5ea9330e6accc98a051bd528aaf4ce5",
-		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/vendor/guzzle/guzzle/src/Guzzle/Log/LogAdapterInterface.php",
-		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/vendor/reekoheek/bono-auth/src/ROH/BonoAuth/Driver/NormAuth.php",
-		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/vendor/xinix-technology/norm/src/Norm/Schema/NormArray.php",
-		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/vendor/xinix-technology/norm/src/Norm/Controller/NormController.php",
-		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/templates/login.blade.php",
-		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/vendor/slim/slim/tests/SlimTest.php",
-		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/config/collections/Store.php",
-		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/src/MCoin/Driver/CoreAcquirerAuthDriver.php",
-		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/config/collections/BillingDetail.php",
-		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/config/collections/Location.php",
-		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/LICENSE",
-		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/vendor/xinix-technology/bono/src/Bono/Controller/Controller.php",
-		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/composer.json",
-		"/Users/faridhidayat/Workspace/web/mcoin/core-acquirer/node_modules/mustache/CHANGES",
-		"/Users/faridhidayat/Workspace/web/mcoin/checkout-system/vendor/guzzle/guzzle/src/Guzzle/Http/Curl/CurlHandle.php",
-		"/Users/faridhidayat/Workspace/web/mcoin/checkout-system/composer.json",
-		"/Users/faridhidayat/Workspace/web/mcoin/service-integration/node_modules/yesbee/lib/components/http.js",
-		"/Users/faridhidayat/Workspace/web/mcoin/service-integration/node_modules/yesbee/lib/services/socketio.js",
-		"/Users/faridhidayat/Workspace/web/sort.php",
-		"/Users/faridhidayat/Workspace/web/mcoin/service-integration/container/services/http_test.js",
-		"/Users/faridhidayat/Workspace/web/mcoin/service-integration/node_modules/yesbee/lib/components/socketio-emit.js",
-		"/Users/faridhidayat/Workspace/web/mcoin/service-integration/container/services/online_store.js",
-		"/Users/faridhidayat/Workspace/web/mcoin/service-integration/manifest.json",
-		"/Users/faridhidayat/Workspace/web/mcoin/service-integration/package.json",
-		"/Users/faridhidayat/Workspace/web/mcoin/service-integration/node_modules/yesbee/lib/services/http.js",
-		"/Users/faridhidayat/Workspace/web/mcoin/service-integration/container/manifest.json",
-		"/Users/faridhidayat/Workspace/web/mcoin/service-integration/node_modules/yesbee/docs/components/http.md",
-		"/Users/faridhidayat/Workspace/web/mcoin/service-integration/node_modules/yesbee/poc/http.js",
-		"/Users/faridhidayat/Workspace/web/mcoin/service-integration/node_modules/yesbee/node_modules/request/node_modules/http-signature/node_modules/ctype/tst/ctf/psinfo.json",
-		"/Users/faridhidayat/Workspace/web/mcoin/service-integration/node_modules/yesbee/node_modules/request/node_modules/http-signature/node_modules/assert-plus/package.json",
-		"/Users/faridhidayat/Workspace/web/mcoin/service-integration/node_modules/yesbee/lib/components/socketio.js",
-		"/Users/faridhidayat/Workspace/web/mcoin/service-integration/node_modules/yesbee/lib/context.js",
-		"/Users/faridhidayat/Workspace/web/mcoin/service-integration/node_modules/socket.io-client/node_modules/engine.io-client/node_modules/ws/build/Release/validation.node",
-		"/Users/faridhidayat/Workspace/web/mcoin/service-integration/node_modules/later/example/server.js",
-		"/Users/faridhidayat/Workspace/web/mcoin/service-integration/container/services/socket_test.js",
-		"/Users/faridhidayat/Workspace/web/mcoin/service-integration/NOTES.md",
-		"/Users/faridhidayat/Workspace/web/mcoin/service-integration/container/services/cron_test.js",
-		"/Users/faridhidayat/Workspace/web/mcoin/service-integration/test/test.js",
-		"/Users/faridhidayat/Workspace/web/xinix/yesbee/lib/components/cron.js",
-		"/Users/faridhidayat/Workspace/web/xinix/yesbee/lib/components/socketio-send.js",
-		"/Users/faridhidayat/Workspace/web/mcoin/service-integration/node_modules/yesbee/node_modules/prompt/node_modules/revalidator/example/webservice.js",
-		"/Users/faridhidayat/Workspace/web/mcoin/service-integration/node_modules/yesbee/node_modules/prompt/node_modules/winston/test/fixtures/scripts/log-string-exception.js",
-		"/Users/faridhidayat/Workspace/web/mcoin/service-integration/node_modules/yesbee/lib/services/websocket.js",
-		"/Users/faridhidayat/Workspace/web/mcoin/service-integration/node_modules/yesbee/lib/component.js",
-		"/Users/faridhidayat/Workspace/web/mcoin/service-integration/node_modules/yesbee/package.json",
-		"/Users/faridhidayat/Workspace/web/xinix/yesbee/lib/services/websocket.js",
-		"/Users/faridhidayat/Workspace/web/xinix/yesbee/lib/components/socket.js",
-		"/Users/faridhidayat/Workspace/web/mcoin/service-integration/node_modules/later/src/component.js",
-		"/Users/faridhidayat/Workspace/web/mcoin/service-integration/node_modules/later/component.json",
-		"/Users/faridhidayat/Workspace/web/mcoin/service-integration/node_modules/yesbee/lib/services/cron.js",
-		"/Users/faridhidayat/Workspace/web/xinix/yesbee/lib/services/cron.js",
-		"/Users/faridhidayat/Workspace/web/mcoin/service-integration/node_modules/yesbee/node_modules/optimist/example/line_count_options.js",
-		"/Users/faridhidayat/Workspace/web/mcoin/service-integration/node_modules/q/q.js",
-		"/Users/faridhidayat/Workspace/web/mcoin/service-integration/node_modules/yesbee/lib/components/direct.js",
-		"/Users/faridhidayat/Workspace/web/mcoin/service-integration/node_modules/yesbee/lib/container.js",
-		"/Users/faridhidayat/Workspace/web/mcoin/service-integration/container/services/direct_test.js",
-		"/Users/faridhidayat/Workspace/web/mcoin/service-integration/node_modules/yesbee/lib/channel.js",
-		"/Users/faridhidayat/Workspace/web/mcoin/service-integration/node_modules/yesbee/node_modules/cli-color/node_modules/es5-ext/date/#/days-in-month.js",
-		"/Users/faridhidayat/Workspace/web/mcoin/service-integration/node_modules/yesbee/node_modules/prompt/node_modules/utile/lib/base64.js",
-		"/Users/faridhidayat/Workspace/web/mcoin/service-integration/node_modules/yesbee/node_modules/cli-color/node_modules/es5-ext/array/#/last-index.js",
-		"/Users/faridhidayat/Workspace/web/mcoin/service-integration/node_modules/q/LICENSE",
-		"/Users/faridhidayat/Workspace/web/mcoin/service-integration/node_modules/yesbee/node_modules/cli-color/node_modules/memoizee/node_modules/es6-weak-map/node_modules/es6-symbol/test/valid-iterable.js",
-		"/Users/faridhidayat/Workspace/web/mcoin/service-integration/node_modules/yesbee/node_modules/cli-color/node_modules/es5-ext/array/#/binary-search.js",
-		"/Users/faridhidayat/Workspace/web/mcoin/service-integration/node_modules/yesbee/node_modules/cli-color/node_modules/es5-ext/string/is-string.js",
-		"/Users/faridhidayat/Workspace/web/mcoin/service-integration/node_modules/yesbee/node_modules/cli-color/node_modules/es5-ext/object/index.js",
-		"/Users/faridhidayat/Workspace/web/mcoin/service-integration/node_modules/yesbee/node_modules/cli-color/bin/generate-color-images",
-		"/Users/faridhidayat/Workspace/web/mcoin/service-integration/node_modules/q/CONTRIBUTING.md",
-		"/Users/faridhidayat/Workspace/web/mcoin/merchant-portal/vendor/krisanalfa/bono-blade/src/KrisanAlfa/Blade/BladeView.php",
-		"/Users/faridhidayat/Workspace/web/mcoin/merchant-portal/vendor/xinix-technology/naked2-theme/src/Xinix/Theme/Naked2Theme.php",
-		"/Users/faridhidayat/Workspace/web/mcoin/merchant-portal/templates/layout.blade.php",
-		"/Users/faridhidayat/Workspace/web/mcoin/merchant-portal/templates/static/index.blade.php",
-		"/Users/faridhidayat/Workspace/web/mcoin/merchant-portal/config/config.php"
+		"/home/jafar/workspaces/php/lib/yesbee-connector/composer.json",
+		"/home/jafar/workspaces/php/lib/yesbee-connector/src/Yesbee/Yesbee.php",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/vendor/faridlab/yesbee-connector/.gitignore",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/vendor/faridlab/yesbee-connector/README.md",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/vendor/faridlab/yesbee-connector/src/Yesbee/Yesbee.php",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/config/collections/Billing.php",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/composer.json",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/templates/merchant/billing/create.blade.php",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/project.sublime-project",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/templates/merchant/billing/update.blade.php",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/templates/merchant/read.blade.php",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/templates/merchant/billing/read.blade.php",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/config/config.php",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/templates/_schema/issuer_fee_structure/readonly.blade.php",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/templates/_schema/fee_structure/readonly.blade.php",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/templates/_schema/issuer_fee_structure/input.blade.php",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/templates/_schema/fee_structure/input.blade.php",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/vendor/krisanalfa/blade-theme/templates/_schema/reference.blade.php",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/src/MCoin/Schema/FeeStructure.php",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/src/MCoin/Controller/BillingController.php",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/templates/issuer/read.blade.php",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/README.md",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/config/collections/Role.php",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/www/css/mcoin.css",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/src/MCoin/Controller/MerchantController.php",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/config/collections/Merchant.php",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/src/MCoin/Observer/BillingObserver.php",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/www/vendor/animate.css/source/fading_entrances/fadeInRightBig.css",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/www/vendor/modernizr/feature-detects/elem-ruby.js",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/templates/merchant/billing/billing_detail/create.blade.php",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/templates/shared/search.blade.php",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/templates/layout.blade.php",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/vendor/xinix-technology/naked2-theme/src/Xinix/Theme/Naked2Theme.php",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/vendor/xinix-technology/norm/src/Norm/Controller/NormController.php",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/vendor/guzzle/guzzle/src/Guzzle/Log/LogAdapterInterface.php",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/templates/merchant/search.blade.php",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/vendor/slim/slim/Slim/Helper/Set.php",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/vendor/slim/slim/Slim/Slim.php",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/www/vendor/respond/src/matchmedia.addListener.js",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/config/collections/MerchantAccount.php",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/www/vendor/modernizr/feature-detects/dom-classlist.js",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/vendor/guzzle/guzzle/docs/docs.rst",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/config/collections/DigitalItem.php",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/www/vendor/pants-autocomplete/vendor/pants-template/js/node.js",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/www/vendor/pants-template/js/node.js",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/www/vendor/pants-tablefield/vendor/jquery/.bower.json",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/www/vendor/pants-autocomplete/vendor/typeahead.js/.bower.json",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/www/vendor/pants-autocomplete/vendor/platform/.bower.json",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/www/vendor/pants-autocomplete/vendor/js-yaml/.bower.json",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/www/vendor/pants-autocomplete/vendor/jquery/.bower.json",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/www/vendor/pants-autocomplete/vendor/typeahead.js/.jshintrc",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/www/vendor/pants-tablefield/vendor/pants-template/.bower.json",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/www/vendor/pants-tablefield/vendor/pants-path/.bower.json",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/www/vendor/pants-tablefield/vendor/pants-observe/.bower.json",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/www/vendor/pants-tablefield/vendor/pants/.bower.json",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/www/vendor/pants-autocomplete/vendor/pants-template/.bower.json",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/www/vendor/pants-autocomplete/vendor/pants-observe/.bower.json",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/www/vendor/pants-autocomplete/vendor/pants/.bower.json",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/www/vendor/pants-template/.bower.json",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/www/vendor/pants-path/.bower.json",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/www/vendor/pants-observe/.bower.json",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/www/vendor/pants/.bower.json",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/www/vendor/pants-tablefield/js/pants-tablefield.js",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/www/vendor/pants-tablefield/vendor/pants/js/pants.js",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/www/vendor/pants-autocomplete/vendor/pants/js/pants.js",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/www/vendor/pants/js/pants.js",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/www/vendor/pants/pants.html",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/www/vendor/pants-tablefield/css/pants-tablefield.css",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/www/vendor/pants-template/pants-template.html",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/www/vendor/pants-tablefield/pants-tablefield.html",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/www/vendor/pants-observe/pants-observe.html",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/www/vendor/google-code-prettify/src/lang-yaml.js",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/vendor/guzzle/guzzle/tests/Guzzle/Tests/Service/Mock/Command/OtherCommand.php",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/config/collections/OrgType.php",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/vendor/xinix-technology/naked2-theme/templates/skeleton.blade.php",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/www/vendor/naked/css/naked.css",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/www/vendor/pants-autocomplete/pants-autocomplete.html",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/vendor/guzzle/guzzle/src/Guzzle/Service/Exception/ValidationException.php",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/vendor/illuminate/view/Illuminate/View/View.php",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/docs/MOM.md",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/src/MCoin/Driver/CoreAcquirerAuthDriver.php",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/src/MCoin/Provider/LoginProvider.php",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/config/collections/User.php",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/src/MCoin/Observer/UserMe.php",
+		"/home/jafar/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/www/index.php",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/vendor/filp/whoops/src/Whoops/Resources/css/whoops.base.css",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/www/vendor/jquery/src/wrap.js",
+		"/home/jafar/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/config/collections/MerchantIndustry.php",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/templates/_schema/auto_complete/input.blade.php",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/src/MCoin/Schema/AutoComplete.php",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/vendor/autoload.php",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/vendor/xinix-technology/bono/src/Bono/App.php",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/vendor/slim/slim/Slim/Route.php",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/www/vendor/typeahead.js/Gruntfile.js",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/src/MCoin/Observer/GenerateCodeObserver.php",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/www/vendor/typeahead.js/test/playground.html",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/vendor/guzzle/guzzle/src/Guzzle/Service/Resource/ResourceIterator.php",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/config/collections/Product.php",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/vendor/xinix-technology/norm/src/Norm/Schema/Reference.php",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/vendor/xinix-technology/naked2-theme/templates/_schema/reference.blade.php",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/www/vendor/pants-template/examples/ref.html",
+		"/home/jafar/.config/sublime-text-3/Packages/User/copyright-mit.sublime-snippet",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/www/vendor/pants-template/js/template.js",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/bower.json",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/www/vendor/pants/js/inflection.js",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/www/vendor/pants-template/js/expression.js",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/www/vendor/pants-path/js/parse.js",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/config/collections/Economic.php",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/vendor/xinix-technology/norm/src/Norm/Schema/Password.php",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/www/vendor/naked2-theme/js/tshirt/TableContext.js",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/www/vendor/pants-tablefield/examples/tablefield.html",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/vendor/guzzle/guzzle/src/Guzzle/Common/ToArrayInterface.php",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/vendor/xinix-technology/bono/src/Bono/Theme/Theme.php",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/www/vendor/pants/examples/parse.html",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/vendor/filp/whoops/src/Whoops/Exception/ErrorException.php",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/vendor/xinix-technology/norm/src/Norm/Collection.php",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/www/vendor/naked2-theme/css/naked.css",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/vendor/guzzle/guzzle/src/Guzzle/Common/Exception/ExceptionCollection.php",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/vendor/guzzle/guzzle/src/Guzzle/Service/Command/OperationResponseParser.php",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/vendor/reekoheek/bono-auth/src/ROH/BonoAuth/Driver/OAuth.php",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/www/vendor/jquery/src/traversing.js",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/vendor/symfony/finder/Symfony/Component/Finder/Expression/ValueInterface.php",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/vendor/guzzle/guzzle/tests/Guzzle/Tests/Service/Command/LocationVisitor/Request/AbstractVisitorTestCase.php",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/vendor/guzzle/guzzle/src/Guzzle/Service/Description/SchemaValidator.php",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/src/MCoin/Controller/AppController.php",
+		"/home/jafar/workspaces/php/mcoin/core-acquirer/vendor/xinix-technology/norm/src/Norm/Norm.php"
 	],
 	"find":
 	{
-		"height": 35.0
+		"height": 34.0
 	},
 	"find_in_files":
 	{
-		"height": 93.0,
+		"height": 90.0,
 		"where_history":
 		[
 			"*.php",
+			"*",
+			"*.php",
+			"*",
 			"*.js",
-			"",
-			"*.m",
-			"*.java",
-			"*.js",
-			"",
-			"*.js",
+			"*",
+			"*.php",
+			"*",
 			"*.css",
-			"*.h, *.m",
-			"*.js",
-			"",
-			"*.m",
-			"",
-			".m",
-			"",
-			"*.java",
-			"*.js",
-			"*.java",
-			"*.m",
-			"*.java",
-			"",
-			"*.java",
-			"*.js",
-			"*.java",
-			"*.js",
-			"*.java",
-			"*'java",
-			"",
-			"*.xml",
-			"*.java",
-			"*.js",
-			".js",
-			".java",
-			"",
-			"*.xml",
-			"",
-			"*.java",
-			"*.js",
-			"*mono*.js",
-			"*.mono*",
+			"*.php",
 			"*.css",
 			"*.js",
-			"",
+			"*.php",
+			"*.php,-vendor/*",
+			"*.php",
 			"*.js",
+			"*.scss",
+			"*",
+			"*.php",
 			"",
-			"*.css",
-			"",
-			"*.js",
-			"*.java",
-			"java",
-			"mon*.js",
-			"",
-			"*.js",
-			"",
-			"*.java",
-			"",
-			"*.js",
-			"*.css",
-			"",
-			"*.js",
-			"",
-			"/Users/faridhidayat/Workspace/desktop/LAI/Resources/js/app",
-			"/Users/faridhidayat/Workspace/desktop/LAI",
-			"",
+			"/home/jafar/workspaces/php/neph/demo",
+			"*.php",
+			"*",
+			"*.php",
+			"*",
+			"*.php",
 			"*.js",
 			""
 		]
@@ -833,134 +890,134 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"trace",
-			"trace_no",
-			"yesbee::",
-			"set(",
-			"set",
-			"custname",
-			"refno",
-			"total",
-			"fee",
-			"traceno",
-			"custid",
-			"trxtype",
-			"custid",
-			"billcode",
-			"trxtype",
-			"merchantid",
-			"requestid",
-			"store",
-			"param",
-			"BillingDetailController",
-			"bill",
-			"== 3",
-			"prin",
-			"var",
-			"model",
-			"cursor",
-			"fee",
-			"feeModel",
-			"refId",
-			"location",
-			"fee",
-			"exchan",
-			"proxy",
-			"detach",
-			"bla",
-			"checkout",
-			"8000",
-			"4000",
-			"eventName",
-			"servers[uri]",
-			"wsRo",
-			"HTTPWrapper",
-			"servers",
-			"$http",
-			"sock",
-			"deroute",
-			"Server",
-			"SOCKETIO",
-			"server.io",
-			"sockets",
-			"WS::",
-			"server.io",
-			"routeWS",
-			"_server",
-			"WS",
-			"server.io",
-			"bla",
-			"context",
-			"socket",
-			"websocket",
-			"getHttpService",
-			"httpService",
-			"to",
-			"channelType",
-			"throw",
-			"addScope",
-			"console",
-			"getWS",
-			"routeWS",
-			"send",
-			"handler",
-			"that",
-			"send",
-			"Channel.IN",
-			"eventName",
-			"emit",
-			".event",
-			"ws",
-			"onnection establi",
-			"[host]",
-			"addWebSocket",
-			"webSockets",
-			"routeWS",
-			"ws ro",
-			"WS::",
-			"io",
-			"routeWS",
-			"socketio",
+			"parameter",
+			"Yesbee",
+			"IssuerObser",
+			"GenerateCodeOb",
+			"BillingObserver",
+			"&& !",
+			"duedate",
+			"->__toString())",
+			"strtotime(",
+			"dateintervalstart",
+			"Lower t",
+			"fieldset id=\"",
+			"id=\"",
+			"exbil",
+			"attr('disabled', false);",
+			"true",
+			"eccuring",
+			"reccuring",
+			"RECCURING",
+			"Search",
+			"Search Menu",
+			"Search Menu ...",
+			"_industry",
+			"merchant_ind",
+			"img/mcoin",
+			"value",
+			"textareaelement.prototype",
+			"element.protot",
+			"    <",
+			".value",
+			"setAttribute",
+			"value",
+			"Element.prototype",
+			"Element.",
+			"value",
+			"vendor/lato/",
+			"naked.css",
+			"lato.min",
+			"lato",
+			"jacket.css",
+			"admin",
+			"not active",
+			"Profile",
+			"span class=\"name",
+			"prettify",
+			"yesbee (",
+			"yesbeeConnector",
+			"->uniqid",
+			"-data",
+			"autocomplete",
+			"tablefield",
+			"1\"",
+			"if_",
+			"createInstance",
+			"if_",
+			"template if",
+			"if",
+			"canCreate",
+			"cameliz",
+			"  ",
+			"\n      ",
+			"  ",
+			"attributeName",
+			"dasheriz",
+			"underbar_pr",
+			"dashe",
+			"underscore",
+			"uppercase",
+			"attributeNameA",
+			"attribute",
+			"space_or_underbar",
+			"true",
+			"rue",
 			"on",
-			"route",
-			"normalizePath",
-			"component/",
-			"component",
-			"that",
-			"proxy",
-			"componentClass",
-			"server",
-			"this",
-			"console.log",
-			"Exchange",
-			"doInit",
-			"getService",
-			"channel",
-			"set",
-			"setChann",
-			"doProcess",
-			"doInit",
-			"component/",
-			"process(",
-			"doProcess",
-			"prototype::",
-			"protocol",
-			"service",
-			", this",
-			".register(",
-			".register",
+			"[j]",
+			".stringify",
+			"originalTextContent",
+			"xxx",
+			"textContent",
+			"jquery.min",
+			"saving",
+			"xxx",
+			"General",
+			"googleap",
+			"Lato",
+			"registri",
 			"register",
-			"Component.register",
-			"Protocol",
-			"Theme/Naked2Theme.php",
-			"sdk.dir",
-			"_load",
-			"list-group",
-			"_loadCompare",
-			"Result",
-			"result",
-			"data-bind=\"click:viewDetail\"",
-			"view.$el"
+			"num",
+			"xxx",
+			"columns",
+			"Platform =",
+			"Platform -",
+			"columns",
+			"refere",
+			"table",
+			"padding-top",
+			"jquery",
+			"pants",
+			"resolvePromise",
+			"\\T",
+			"url",
+			"datatables/",
+			"datatables",
+			"//cdn.datatables.net/1.10.3/",
+			"//cdn.datatables.net/1.10.3/css/",
+			"data",
+			"template",
+			"else",
+			"each",
+			"ReferenceArray",
+			"Reference",
+			"Time",
+			"end",
+			"bank",
+			"~0.3.0",
+			"body",
+			"ArrayAccess",
+			"IteratorAggregate",
+			"Countable",
+			"Countable\n",
+			".$app->request->get('merchant')",
+			"getMatchedRoutes",
+			"merchant_account",
+			"acc_no",
+			"code",
+			"BankSettlement",
+			"urlWithQuery",
+			"compilereng"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -968,16 +1025,53 @@
 		"regex": false,
 		"replace_history":
 		[
-			"import id.or.alkitab.R;",
-			"id.or.alkitab.customadapter.",
-			"Constants.DIRECTORY",
-			"Constants.PACKAGENAME",
-			"Constants.DIRECTORY",
-			"app.page.hide",
-			"app.page.show",
-			"/Users/faridhidayat/Workspace/mobile/Alkitab",
-			"sdk.dir=/usr/local/android/sdk",
-			"/Users/faridhidayat/Workspace/mobile/Alkitab"
+			"@section('head')",
+			"slug",
+			"!continue=",
+			"    ",
+			"OR",
+			"AND",
+			"->NAME",
+			"db.fetch",
+			"Config::get('config.",
+			"session.default",
+			"config.key",
+			"config.encoding",
+			"\\\\Neph\\\\Core\\\\",
+			"$1Core\\\\$2",
+			"Problem",
+			"Change Release",
+			"widget_time_to_attend_less_than_30min",
+			"Problem",
+			"Change Release",
+			"@$dashboard_type",
+			"'line'",
+			"@$dashboard_type",
+			"'line'",
+			"@$dashboard_type",
+			"WHEN $1 THEN \"$2\"",
+			"\\n",
+			".value-field { border: 1px solid #ccc; padding: 3px 5px 3px 5px; margin-top: 5px; background-color: #eee; border-radius: 3px }",
+			".value-field { border: 1px solid #ccc; padding: 3px 5px 3px 5px; margin-top: 5px; background-color: #eee }",
+			"($this->_data['dashboard_filter'], $this->_data['dashboard_type']);",
+			"/'.$dashboard_filter.'/'.$dashboard_type",
+			"($filter, $type) {",
+			"($filter, $type);",
+			"$filter = 'daily', $type = 'bar'",
+			"<input type=\"submit\" value=\"<?php echo l('Submit') ?>\" />",
+			"\\$data['$1']",
+			"issue_show",
+			"\\$data['$1']",
+			"issue_show",
+			"$retval .= '<span data-name=\"' . $field . '\">'.$CI->_data['data'][$field].'</span>';",
+			"if (!empty($options[$CI->_data['data'][$field]])) {",
+			"\\$data['$1']",
+			"\\$$1",
+			"$CI->_data['data']",
+			"issue_show",
+			"<a href=\"<?php echo site_url('issue/detail/'.$issue['id']) ?>\"><?php echo site_url('issue/detail/'.$issue['id']) ?></a>",
+			"\\$option['$1']",
+			"option['$1']"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -997,28 +1091,25 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4930,
+						"buffer_size": 4962,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4520,
-								4520
+								1510,
+								1510
 							]
 						],
 						"settings":
 						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
 							"syntax": "Packages/PHP/PHP.tmLanguage",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1834.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -1029,7 +1120,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 23.0
+		"height": 21.0
 	},
 	"input":
 	{
@@ -1058,711 +1149,831 @@
 		]
 	},
 	"menu_visible": true,
-	"output.exec":
-	{
-		"height": 282.0
-	},
 	"output.find_results":
-	{
-		"height": 0.0
-	},
-	"output.sftp":
 	{
 		"height": 0.0
 	},
 	"project": "project.sublime-project",
 	"replace":
 	{
-		"height": 42.0
+		"height": 38.0
 	},
-	"save_all_on_build": false,
+	"save_all_on_build": true,
 	"select_file":
 	{
 		"height": 0.0,
 		"selected_items":
 		[
 			[
+				"comp",
+				"composer.json"
+			],
+			[
+				"ye",
+				"src/Yesbee/Yesbee.php"
+			],
+			[
+				"yesb",
+				"src/Yesbee/Yesbee.php"
+			],
+			[
+				"yesbee-connector/com",
+				"vendor/faridlab/yesbee-connector/composer.json"
+			],
+			[
+				"yesbe",
+				"vendor/faridlab/yesbee-connector/src/Yesbee/Yesbee.php"
+			],
+			[
+				"bill",
+				"config/collections/Billing.php"
+			],
+			[
+				"com",
+				"composer.json"
+			],
+			[
+				"billread",
+				"templates/merchant/billing/read.blade.php"
+			],
+			[
+				"read.blad",
+				"templates/merchant/read.blade.php"
+			],
+			[
+				"conf",
+				"config/config.php"
+			],
+			[
+				"mco",
+				"www/css/mcoin.css"
+			],
+			[
+				"merbillup",
+				"templates/merchant/billing/update.blade.php"
+			],
+			[
+				"pr",
+				"project.sublime-project"
+			],
+			[
+				"billcreate",
+				"templates/merchant/billing/create.blade.php"
+			],
+			[
+				"mer",
+				"config/collections/Merchant.php"
+			],
+			[
+				"me",
+				"config/collections/Merchant.php"
+			],
+			[
+				"search",
+				"templates/shared/search.blade.php"
+			],
+			[
+				"con",
+				"config/config.php"
+			],
+			[
+				"node.js",
+				"www/vendor/pants-template/js/node.js"
+			],
+			[
+				"lay",
+				"templates/layout.blade.php"
+			],
+			[
+				"compo",
+				"composer.json"
+			],
+			[
+				"www/in",
+				"www/index.php"
+			],
+			[
 				"config",
 				"config/config.php"
 			],
 			[
-				"fee_stru",
-				"templates/_schema/fee_structure/input.blade.php"
-			],
-			[
-				"mcoin/provider/coreacquirerprovider.php",
-				"src/MCoin/Provider/CoreAcquirerProvider.php"
-			],
-			[
-				"digitalitemde",
-				"config/collections/DigitalItemDetail.php"
-			],
-			[
-				"billing",
-				"config/collections/Billing.php"
-			],
-			[
-				"checkou",
-				"src/MCoin/Controller/CheckoutController.php"
-			],
-			[
-				"fee_s",
-				"templates/_schema/fee_structure/input.blade.php"
-			],
-			[
-				"check",
-				"src/MCoin/Controller/CheckoutController.php"
-			],
-			[
-				"pants",
-				"www/vendor/pants/js/pants.js"
-			],
-			[
-				"storeobserver",
-				"src/MCoin/Observer/StoreObserver.php"
-			],
-			[
-				"store",
-				"config/collections/Store.php"
-			],
-			[
-				"generatecodeobserver",
-				"src/MCoin/Observer/GenerateCodeObserver.php"
-			],
-			[
-				"merchant",
-				"config/collections/Merchant.php"
-			],
-			[
-				"storecategory",
-				"config/collections/StoreCategory.php"
-			],
-			[
-				"counter",
-				"config/collections/CounterCode.php"
-			],
-			[
-				"feestructure",
-				"src/MCoin/Schema/FeeStructure.php"
+				"user",
+				"config/collections/User.php"
 			],
 			[
 				"layout",
 				"templates/layout.blade.php"
 			],
 			[
-				"normauth",
-				"vendor/reekoheek/bono-auth/src/ROH/BonoAuth/Driver/NormAuth.php"
+				"mercin",
+				"config/collections/MerchantIndustry.php"
 			],
 			[
-				"logindr",
+				"org",
+				"config/collections/OrgType.php"
+			],
+			[
+				"role",
+				"config/collections/Role.php"
+			],
+			[
+				"refe",
+				"vendor/xinix-technology/norm/src/Norm/Schema/Reference.php"
+			],
+			[
+				"prod",
+				"config/collections/Product.php"
+			],
+			[
+				"bowe",
+				"bower.json"
+			],
+			[
+				"pants-",
+				"www/vendor/pants-tablefield/pants-tablefield.html"
+			],
+			[
+				"pant-tab",
+				"www/vendor/pants-tablefield/js/pants-tablefield.js"
+			],
+			[
+				"pan",
+				"www/vendor/pants/js/pants.js"
+			],
+			[
+				"inp",
+				"templates/_schema/issuer_fee_structure/input.blade.php"
+			],
+			[
+				"input",
+				"templates/_schema/fee_structure/input.blade.php"
+			],
+			[
+				"expre",
+				"www/vendor/pants-template/js/expression.js"
+			],
+			[
+				"pants.",
+				"www/vendor/pants/js/pants.js"
+			],
+			[
+				"tablefjs",
+				"www/vendor/pants-tablefield/js/pants-tablefield.js"
+			],
+			[
+				"pants",
+				"www/vendor/pants/pants.html"
+			],
+			[
+				"parse",
+				"www/vendor/pants-path/js/parse.js"
+			],
+			[
+				"fee/in",
+				"templates/_schema/fee_structure/input.blade.php"
+			],
+			[
+				"econ",
+				"config/collections/Economic.php"
+			],
+			[
+				"indus",
+				"config/collections/MerchantIndustry.php"
+			],
+			[
+				"orgt",
+				"config/collections/OrgType.php"
+			],
+			[
+				"saving",
+				"www/vendor/jquery/src/traversing.js"
+			],
+			[
+				"coll",
+				"vendor/xinix-technology/norm/src/Norm/Collection.php"
+			],
+			[
+				"merc",
+				"config/collections/Merchant.php"
+			],
+			[
+				"loginp",
 				"src/MCoin/Provider/LoginProvider.php"
 			],
 			[
-				"src/mcoin/provider/loginprovider.php",
-				"src/MCoin/Provider/LoginProvider.php"
+				"filter",
+				"vendor/xinix-technology/norm/src/Norm/Filter/Filter.php"
 			],
 			[
-				"src/mcoin/driver/coreacquirerauthdriver.php",
-				"src/MCoin/Driver/CoreAcquirerAuthDriver.php"
+				"func",
+				"vendor/xinix-technology/bono/src/functions.php"
 			],
 			[
-				"config/config.php",
-				"config/config.php"
+				"billi",
+				"config/collections/Billing.php"
 			],
 			[
-				"config/collections/billingdetail.php",
-				"config/collections/BillingDetail.php"
+				"fee",
+				"src/MCoin/Schema/FeeStructure.php"
 			],
 			[
-				"loginprovider",
-				"src/MCoin/Provider/LoginProvider.php"
+				"platform.js",
+				"www/vendor/platform/platform.js"
 			],
 			[
-				"chec",
-				"src/MCoin/Controller/CheckoutController.php"
+				"inpu",
+				"templates/_schema/fee_structure/input.blade.php"
 			],
 			[
-				"compo/http",
-				"node_modules/yesbee/lib/components/http.js"
+				"colbil",
+				"config/collections/Billing.php"
 			],
 			[
-				"socketio-emit",
-				"node_modules/yesbee/lib/components/socketio-emit.js"
+				"layu",
+				"templates/layout.blade.php"
 			],
 			[
-				"serv/http",
-				"node_modules/yesbee/lib/services/http.js"
+				"lauy",
+				"templates/layout.blade.php"
 			],
 			[
-				"http",
-				"node_modules/yesbee/lib/services/http.js"
+				"layou",
+				"templates/layout.blade.php"
 			],
 			[
-				"service/http",
-				"node_modules/yesbee/lib/services/http.js"
+				"cache/b12880e4d3457c09aaa93a4bfc7cc851",
+				"cache/b12880e4d3457c09aaa93a4bfc7cc851"
 			],
 			[
-				"http.js",
-				"node_modules/yesbee/lib/components/http.js"
+				"bil",
+				"config/collections/Billing.php"
 			],
 			[
-				"componen.js",
-				"node_modules/yesbee/lib/component.js"
+				"b",
+				"vendor/filp/whoops/tests/bootstrap.php"
 			],
 			[
-				"com",
-				"node_modules/yesbee/lib/component.js"
+				"res",
+				"vendor/slim/slim/Slim/Http/Response.php"
 			],
 			[
-				"comp",
-				"node_modules/yesbee/lib/component.js"
+				"bonoresp",
+				"vendor/xinix-technology/bono/src/Bono/Http/Response.php"
 			],
 			[
-				"lib/component.js",
-				"node_modules/yesbee/lib/component.js"
+				"resp",
+				"vendor/slim/slim/Slim/Http/Response.php"
 			],
 			[
-				"lib/context.j",
-				"node_modules/yesbee/lib/context.js"
+				"billing",
+				"config/collections/Billing.php"
 			],
 			[
-				"lib/context",
-				"node_modules/yesbee/lib/context.js"
+				"route",
+				"vendor/slim/slim/Slim/Route.php"
 			],
 			[
-				"krisanalfa/blade/bladeview.php",
-				"vendor/krisanalfa/bono-blade/src/KrisanAlfa/Blade/BladeView.php"
+				"router",
+				"vendor/slim/slim/Slim/Router.php"
 			],
 			[
-				"composer",
+				"pro",
+				"project.sublime-project"
+			],
+			[
+				"mercha",
+				"config/collections/Merchant.php"
+			],
+			[
+				"slim.",
+				"vendor/slim/slim/Slim/Slim.php"
+			],
+			[
+				"slim",
+				"vendor/slim/slim/Slim/View.php"
+			],
+			[
+				"run",
+				"vendor/filp/whoops/src/Whoops/Run.php"
+			],
+			[
+				"errorex",
+				"vendor/filp/whoops/src/Whoops/Exception/ErrorException.php"
+			],
+			[
+				"errorexception",
+				"vendor/filp/whoops/src/Whoops/Exception/ErrorException.php"
+			],
+			[
+				"pretty",
+				"vendor/filp/whoops/src/Whoops/Handler/PrettyPageHandler.php"
+			],
+			[
+				"pret",
+				"vendor/filp/whoops/src/Whoops/Handler/PrettyPageHandler.php"
+			],
+			[
+				"layout.h",
+				"vendor/filp/whoops/src/Whoops/Resources/views/layout.html.php"
+			],
+			[
+				"layout.ht",
+				"vendor/filp/whoops/src/Whoops/Resources/views/layout.html.php"
+			],
+			[
+				"sli",
+				"vendor/slim/slim/Slim/Slim.php"
+			],
+			[
+				"co",
 				"composer.json"
 			],
 			[
-				"rest",
-				"vendor/xinix-technology/bono/src/Bono/Controller/RestController.php"
+				"refere",
+				"vendor/xinix-technology/norm/templates/_schema/reference.php"
 			],
 			[
-				"norm/controll",
-				"vendor/xinix-technology/norm/src/Norm/Controller/NormController.php"
+				"catat",
+				"docs/Catatan.md"
 			],
 			[
-				"controller/controller.php",
-				"vendor/xinix-technology/bono/src/Bono/Controller/Controller.php"
+				"schemahelper",
+				"vendor/krisanalfa/blade-theme/src/KrisanAlfa/Theme/Helper/SchemaHelper.php"
 			],
 			[
-				"theme/naked2theme.php",
+				"sl",
+				"vendor/slim/slim/Slim/Slim.php"
+			],
+			[
+				"www/inde",
+				"www/index.php"
+			],
+			[
+				"slimslim",
+				"vendor/slim/slim/Slim/Slim.php"
+			],
+			[
+				"log",
+				"vendor/slim/slim/Slim/Log.php"
+			],
+			[
+				"slimvi",
+				"vendor/slim/slim/Slim/View.php"
+			],
+			[
+				"response",
+				"vendor/xinix-technology/bono/src/Bono/Http/Response.php"
+			],
+			[
+				"respon",
+				"vendor/slim/slim/Slim/Http/Response.php"
+			],
+			[
+				"naked",
 				"vendor/xinix-technology/naked2-theme/src/Xinix/Theme/Naked2Theme.php"
 			],
 			[
-				"config.xml",
-				"config.xml"
+				"prettypage",
+				"vendor/filp/whoops/src/Whoops/Handler/PrettyPageHandler.php"
 			],
 			[
-				"init",
-				"www/js/app/init.js"
+				"view",
+				"vendor/illuminate/view/Illuminate/View/View.php"
 			],
 			[
-				"db.js",
-				"www/js/api/db.js"
+				"pgw",
+				"www/vendor/sb-admin-2/css/pgw.css"
 			],
 			[
-				"index.html",
-				"www/index.html"
+				"upda",
+				"templates/shared/update.blade.php"
 			],
 			[
-				"container",
-				"lib/container.js"
+				"crea",
+				"templates/shared/create.blade.php"
 			],
 			[
-				"/js/app/app.js",
-				"www/js/app/app.js"
+				"read.",
+				"templates/shared/read.blade.php"
 			],
 			[
-				"index",
-				"www/index.html"
+				"read",
+				"templates/shared/read.blade.php"
+			],
+			[
+				"searb",
+				"templates/shared/search.blade.php"
+			],
+			[
+				"merch",
+				"config/collections/Merchant.php"
+			],
+			[
+				"cata",
+				"docs/Catatan.md"
+			],
+			[
+				"sear",
+				"templates/shared/search.blade.php"
+			],
+			[
+				"layoub",
+				"templates/layout.blade.php"
+			],
+			[
+				"update",
+				"templates/shared/update.blade.php"
+			],
+			[
+				"pg",
+				"www/vendor/sb-admin-2/css/pgw.css"
+			],
+			[
+				"fun",
+				"vendor/xinix-technology/bono/src/functions.php"
+			],
+			[
+				"bonolang",
+				"vendor/krisanalfa/bono-lang/composer.json"
+			],
+			[
+				"sb-",
+				"www/vendor/sb-admin-2/js/sb-admin-2.js"
+			],
+			[
+				"them",
+				"vendor/xinix-technology/bono/src/Bono/Theme/Theme.php"
+			],
+			[
+				"role/sear",
+				"templates/role/search.twig.php"
+			],
+			[
+				"set",
+				"vendor/slim/slim/Slim/Helper/Set.php"
 			],
 			[
 				"app",
-				"www/js/app/app.js"
+				"vendor/xinix-technology/bono/src/Bono/App.php"
 			],
 			[
-				"app.js",
-				"www/js/app/app.js"
+				"filesystem",
+				"vendor/twig/twig/lib/Twig/Loader/Filesystem.php"
 			],
 			[
-				"sqliteplugin.java",
-				"plugins/com.brodysoft.sqlitePlugin/src/android/org/pgsqlite/SQLitePlugin.java"
+				"slimview",
+				"vendor/slim/slim/Slim/View.php"
 			],
 			[
-				"android",
-				"platforms/android/AndroidManifest.xml"
+				"bonoblade",
+				"vendor/krisanalfa/bono-blade/src/KrisanAlfa/Blade/BonoBlade.php"
 			],
 			[
-				"com/facebook/loginactivity",
-				"plugins/com.phonegap.plugins.facebookconnect/platforms/android/FacebookLib/src/com/facebook/LoginActivity.java"
+				"queuco",
+				"src/Xinix/Mine/Controller/QueueController.php"
 			],
 			[
-				"-info.plist",
-				"platforms/ios/Alkitab Digital Plus/Alkitab Digital Plus-Info.plist"
+				"task",
+				"config/collections/Task.php"
 			],
 			[
-				"facebookconnectplugin.m",
-				"plugins/com.phonegap.plugins.facebookconnect/platforms/ios/HelloCordova/Plugins/com.phonegap.plugins.facebookconnect/FacebookConnectPlugin.m"
+				"layo",
+				"templates/layout.php"
 			],
 			[
-				"socialauthplugin.m",
-				"plugins/com.danielcwilson.plugins.socialauth/ios/SocialAuthPlugin.m"
+				"taerad",
+				"templates/task/read.php"
 			],
 			[
-				"open.js",
-				"www/js/view/library/open.js"
+				"qutas",
+				"templates/queue/tasks.php"
 			],
 			[
-				"routes",
-				"www/js/app/routes.js"
+				"tasks.php",
+				"templates/queue/tasks.php"
 			],
 			[
-				"customadapter",
-				"platforms/android/src/id/or/alkitab/CustomAdapter.java"
+				"queuecontroller",
+				"src/Xinix/Mine/Controller/QueueController.php"
 			],
 			[
-				"customui",
-				"platforms/android/src/id/or/alkitab/CustomUI.java"
+				"status",
+				"config/collections/Status.php"
 			],
 			[
-				"main.xml",
-				"platforms/android/res/layout/main.xml"
+				"model",
+				"vendor/xinix-technology/norm/src/Norm/Model.php"
 			],
 			[
-				"sharepage",
-				"platforms/android/src/id/or/alkitab/SharePage.java"
+				"queu",
+				"src/Xinix/Mine/Controller/QueueController.php"
 			],
 			[
-				"constant.h",
-				"platforms/ios/Alkitab Digital Plus/Classes/Constants.h"
+				"taskco",
+				"src/Xinix/Mine/Controller/TaskController.php"
 			],
 			[
-				"config.js",
-				"www/js/api/config.js"
-			],
-			[
-				"apputil.js",
-				"www/js/plugins/appUtil.js"
-			],
-			[
-				"apputil.m",
-				"platforms/ios/Alkitab Digital Plus/Classes/AppUtil.m"
-			],
-			[
-				"library/open",
-				"www/js/view/library/open.js"
-			],
-			[
-				"constant",
-				"platforms/ios/Alkitab Digital Plus/Classes/Constants.h"
-			],
-			[
-				"sharepage.java",
-				"platforms/android/src/id/or/alkitab/SharePage.java"
-			],
-			[
-				"constants",
-				"platforms/android/src/id/or/alkitab/Constants.java"
-			],
-			[
-				"store/index",
-				"www/js/view/store/index.js"
-			],
-			[
-				"library/index.js",
-				"www/js/view/library/index.js"
-			],
-			[
-				"androidmanifest",
-				"platforms/android/AndroidManifest.xml"
-			],
-			[
-				"store/",
-				"www/js/view/store/index.js"
-			],
-			[
-				"en.js",
-				"www/js/lang/en.js"
-			],
-			[
-				"id.js",
-				"www/js/lang/id.js"
-			],
-			[
-				"library/index",
-				"www/js/view/library/index.js"
-			],
-			[
-				"appbuild.m",
-				"platforms/ios/Alkitab Digital Plus/Classes/AppBuild.m"
-			],
-			[
-				"appass",
-				"www/js/plugins/appAssetManager.js"
-			],
-			[
-				"bund",
-				"www/js/api/bundle.js"
-			],
-			[
-				"appdata.m",
-				"platforms/ios/Alkitab Digital Plus/Classes/AppData.m"
-			],
-			[
-				"servicemanager.m",
-				"platforms/ios/Alkitab Digital Plus/Classes/ServiceManager.m"
-			],
-			[
-				"appservice.js",
-				"www/js/plugins/appService.js"
-			],
-			[
-				"appdb.java",
-				"platforms/android/src/id/or/alkitab/plugins/AppDB.java"
-			],
-			[
-				"user.js",
-				"www/js/api/user.js"
-			],
-			[
-				"constan.java",
-				"platforms/android/src/id/or/alkitab/Constants.java"
-			],
-			[
-				"appservice.java",
-				"platforms/android/src/id/or/alkitab/plugins/AppService.java"
-			],
-			[
-				"androidman",
-				"platforms/android/AndroidManifest.xml"
-			],
-			[
-				"constant.java",
-				"platforms/android/src/id/or/alkitab/Constants.java"
-			],
-			[
-				"share",
-				"platforms/android/src/id/or/alkitab/SharePage.java"
-			],
-			[
-				"customadap",
-				"platforms/android/src/id/or/alkitab/customadapter/CustomAdapter.java"
-			],
-			[
-				"albumactivity",
-				"platforms/android/src/id/or/alkitab/customui/AlbumActivity.java"
-			],
-			[
-				"carerac",
-				"platforms/android/src/id/or/alkitab/customui/CareerActivity.java"
-			],
-			[
-				"contactactivi",
-				"platforms/android/src/id/or/alkitab/customui/ContactActivity.java"
-			],
-			[
-				"feedactivit",
-				"platforms/android/src/id/or/alkitab/customui/FeedActivity.java"
-			],
-			[
-				"profileactivity",
-				"platforms/android/src/id/or/alkitab/customui/ProfileActivity.java"
-			],
-			[
-				"r.java",
-				"platforms/android/gen/id/or/alkitab/R.java"
-			],
-			[
-				"careerac",
-				"platforms/android/src/id/or/alkitab/customui/CareerActivity.java"
-			],
-			[
-				"albumac",
-				"platforms/android/src/id/or/alkitab/customui/AlbumActivity.java"
-			],
-			[
-				"photoada",
-				"platforms/android/src/id/or/alkitab/customadapter/PhotoAdapter.java"
-			],
-			[
-				"albumsada",
-				"platforms/android/src/id/or/alkitab/customadapter/AlbumsAdapter.java"
-			],
-			[
-				"androidmanifest.xml",
-				"platforms/android/AndroidManifest.xml"
-			],
-			[
-				"androi",
-				"platforms/android/AndroidManifest.xml"
-			],
-			[
-				"apputil.java",
-				"platforms/android/src/id/or/alkitab/plugins/AppUtil.java"
-			],
-			[
-				"appservi.js",
-				"www/js/plugins/appService.js"
-			],
-			[
-				"appseri.java",
-				"platforms/android/src/id/or/alkitab/plugins/AppService.java"
-			],
-			[
-				"midd",
-				"www/js/app/middleware.js"
-			],
-			[
-				"alkitabdigital.java",
-				"platforms/android/src/id/or/alkitab/AlkitabDigitalPlus.java"
-			],
-			[
-				"cons",
-				"platforms/ios/Alkitab Digital Plus/Classes/Constants.h"
-			],
-			[
-				"style.css",
-				"www/css/style.css"
-			],
-			[
-				"database.java",
-				"platforms/android/src/id/or/alkitab/DataBaseHelper.java"
-			],
-			[
-				"servicemanager.java",
-				"platforms/android/src/id/or/alkitab/ServiceManager.java"
-			],
-			[
-				"bundle",
-				"www/js/api/bundle.js"
-			],
-			[
-				"app.versio",
-				"www/skel/app.version"
-			],
-			[
-				"catalog.js",
-				"www/js/api/catalog.js"
-			],
-			[
-				"onstant.java",
-				"platforms/android/src/id/or/alkitab/Constants.java"
-			],
-			[
-				"androidma",
-				"platforms/android/AndroidManifest.xml"
-			],
-			[
-				"androidmanifes",
-				"platforms/android/AndroidManifest.xml"
-			],
-			[
-				"setting/index",
-				"www/js/view/setting/index.js"
-			],
-			[
-				"section",
-				"www/vendor/jsb/src/Section.js"
-			],
-			[
-				"routes.js",
-				"www/js/app/routes.js"
-			],
-			[
-				"note/indes",
-				"www/js/view/note/index.js"
-			],
-			[
-				"note/index",
-				"www/js/view/note/index.js"
-			],
-			[
-				"bookmar/inde",
-				"www/js/view/bookmark/index.js"
-			],
-			[
-				"view/high",
-				"www/js/view/highlight/index.js"
-			],
-			[
-				"open",
-				"www/css/booklet/openbook.css"
+				"imein",
+				"src/Xinix/Mine/Schema/TimeInterval.php"
 			]
 		],
 		"width": 0.0
 	},
 	"select_project":
 	{
-		"height": 500.0,
+		"height": 730.0,
 		"selected_items":
 		[
 			[
-				"checkou",
-				"~/Workspace/web/project/mcoin/checkout-system/project.sublime-project"
+				"corea",
+				"~/workspaces/php/mcoin/core-acquirer/project.sublime-project"
 			],
 			[
-				"yes-con",
-				"~/Workspace/web/xinix/yesbee-cron/project.sublime-workspace"
+				"ser",
+				"~/workspaces/php/mcoin/service-integration/project.sublime-project"
 			],
 			[
-				"yesbee-con",
-				"~/Workspace/web/xinix/yesbee-cron/project.sublime-workspace"
+				"pant-au",
+				"~/workspaces/web/pants-autocomplete/project.sublime-project"
 			],
 			[
-				"service",
-				"~/Workspace/web/project/mcoin/service-integration/project.sublime-project"
+				"pants",
+				"~/workspaces/web/pants-autocomplete/project.sublime-project"
 			],
 			[
-				"servicein",
-				"~/Workspace/web/mcoin/mcoin-service-integration.sublime-workspace"
+				"pan-au",
+				"~/workspaces/web/pants-autocomplete/project.sublime-project"
 			],
 			[
-				"servce",
-				"~/Workspace/web/mcoin/mcoin-service-integration.sublime-workspace"
+				"mine",
+				"~/workspaces/php/internal/mine/project.sublime-project"
 			],
 			[
-				"core",
-				"~/Workspace/web/project/mcoin/core-acquirer/project.sublime-project"
+				"path",
+				"~/workspaces/web/pants-path/project.sublime-project"
 			],
 			[
-				"alkitab",
-				"~/Workspace/mobile/Alkitab/alkitab.sublime-project"
+				"pants-ta",
+				"~/workspaces/web/pants-tablefield/project.sublime-project"
 			],
 			[
-				"yesbee-xmlr",
-				"~/Workspace/xinix/nodejs/yesbee-xmlrpc/project.sublime-project"
+				"pant",
+				"~/workspaces/web/pants/project.sublime-project"
 			],
 			[
-				"xmlrpc",
-				"~/Workspace/xinix/nodejs/yesbee-xmlrpc/project.sublime-project"
+				"bono-ar",
+				"~/workspaces/php/arch/bono-arch/project.sublime-project"
 			],
 			[
-				"mercha",
-				"~/Workspace/web/mcoin/mcoin-merchant-portal.sublime-project"
+				"bono",
+				"~/workspaces/php/lib/bono/project.sublime-project"
 			],
 			[
-				"merch",
-				"~/Workspace/web/mcoin/mcoin-merchant-portal.sublime-project"
+				"naked",
+				"~/workspaces/php/themes/naked2-theme/project.sublime-project"
 			],
 			[
-				"kamus",
-				"~/Workspace/mobile/kamus-pelayaran.sublime-project"
+				"pax",
+				"~/workspaces/js/pax/project.sublime-project"
 			],
 			[
-				"lakitab",
-				"~/Workspace/mobile/Alkitab/alkitab.sublime-project"
+				"bono-a",
+				"~/workspaces/php/lib/bono-auth/project.sublime-project"
 			],
 			[
-				"hive",
-				"~/Workspace/web/mobile/web-hive.sublime-project"
+				"compo",
+				"~/workspaces/js/composer-proxy/project.sublime-project"
+			],
+			[
+				"yesbee",
+				"~/workspaces/js/yesbee/project.sublime-project"
+			],
+			[
+				"lut",
+				"~/workspaces/php/internal/luthor/project.sublime-project"
+			],
+			[
+				"luth",
+				"~/workspaces/php/internal/luthor/project.sublime-project"
+			],
+			[
+				"hris",
+				"~/workspaces/php/internal/hris/project.sublime-project"
+			],
+			[
+				"norm",
+				"~/workspaces/php/lib/norm/project.sublime-project"
+			],
+			[
+				"luthor",
+				"~/workspaces/php/internal/luthor/project.sublime-project"
+			],
+			[
+				"yesb",
+				"~/workspaces/js/yesbee/project.sublime-project"
+			],
+			[
+				"ac",
+				"~/workspaces/php/internal/account/project.sublime-project"
+			],
+			[
+				"acc",
+				"~/workspaces/php/internal/account/project.sublime-project"
+			],
+			[
+				"hr",
+				"~/workspaces/php/internal/hris/project.sublime-project"
+			],
+			[
+				"hri",
+				"~/workspaces/php/internal/hris/project.sublime-project"
+			],
+			[
+				"lu",
+				"~/workspaces/php/internal/luthor/project.sublime-project"
+			],
+			[
+				"tig",
+				"~/workspaces/php/internal/tig/project.sublime-project"
+			],
+			[
+				"acco",
+				"~/workspaces/php/internal/account/project.sublime-project"
+			],
+			[
+				"accoun",
+				"~/workspaces/php/internal/account/project.sublime-project"
+			],
+			[
+				"bono-",
+				"~/workspaces/php/lib/bono-auth/project.sublime-project"
+			],
+			[
+				"xee",
+				"~/workspaces/php/internal/xeekee/project.sublime-project"
+			],
+			[
+				"note",
+				"~/workspaces/notes/project.sublime-project"
 			],
 			[
 				"xin",
-				"~/Workspace/web/xinix/xin.sublime-project"
+				"~/workspaces/js/xin/project.sublime-project"
 			],
 			[
-				"porto",
-				"~/Workspace/mobile/initiatives/portofol.io.sublime-project"
-			],
-			[
-				"port",
-				"~/Workspace/mobile/initiatives/portofol.io.sublime-project"
-			],
-			[
-				"lai",
-				"~/Workspace/desktop/LAI.sublime-project"
-			],
-			[
-				"porot",
-				"~/Workspace/mobile/initiatives/portofol.io.sublime-project"
-			],
-			[
-				"portofo",
-				"~/Workspace/mobile/initiatives/portofol.io.sublime-project"
-			],
-			[
-				"portofol",
-				"~/Workspace/mobile/initiatives/portofol.io.sublime-project"
-			],
-			[
-				"portof",
-				"~/Workspace/mobile/initiatives/portofol.io.sublime-project"
-			],
-			[
-				"Lai",
-				"~/Workspace/desktop/LAI.sublime-project"
-			],
-			[
-				"mobil",
-				"~/Workspace/mobile/xinix/xinixMobileApp.sublime-project"
-			],
-			[
-				"hve",
-				"~/Workspace/web/mobile/web-hive.sublime-project"
-			],
-			[
-				"mobile",
-				"~/Workspace/mobile/xinix/xinixMobileApp.sublime-project"
-			],
-			[
-				"project",
-				"~/Workspace/mobile/mobile-apps-hertz-fandroid/project.sublime-project"
-			],
-			[
-				"hertz",
-				"~/Workspace/mobile/hertzkeren/project.sublime-workspace"
-			],
-			[
-				"expense",
-				"~/Workspace/mobile/initiatives/expensedia.sublime-project"
-			],
-			[
-				"LIA",
-				"~/Workspace/desktop/LAI.sublime-project"
-			],
-			[
-				"expen",
-				"~/Workspace/mobile/initiatives/expensedia.sublime-project"
-			],
-			[
-				"al",
-				"~/Workspace/mobile/Alkitab/alkitab.sublime-project"
-			],
-			[
-				"pro",
-				"~/Workspace/mobile/mobile-apps-hertz-fandroid/project.sublime-project"
-			],
-			[
-				"p",
-				"~/Workspace/mobile/mobile-apps-hertz-fandroid/project.sublime-project"
+				"nor",
+				"~/workspaces/php/lib/norm/project.sublime-project"
 			],
 			[
 				"",
-				"~/Workspace/mobile/mobile-apps-hertz-fandroid/project.sublime-project"
+				"~/workspaces/php/internal/tig/project.sublime-project"
 			],
 			[
-				"hert",
-				"~/Workspace/mobile/hertzkeren/project.sublime-project"
+				"muse",
+				"~/workspaces/cordova/Muse4Shared/project.sublime-project"
 			],
 			[
-				"xinix",
-				"~/Workspace/web/Xinix/Xinix.sublime-project"
+				"doma",
+				"~/workspaces/php/internal/domain/project.sublime-project"
+			],
+			[
+				"accou",
+				"~/workspaces/php/internal/account/project.sublime-project"
+			],
+			[
+				"nake",
+				"~/workspaces/php/themes/naked-theme/project.sublime-project"
+			],
+			[
+				"nake-",
+				"~/workspaces/php/themes/naked-theme/project.sublime-project"
+			],
+			[
+				"nomr",
+				"~/workspaces/php/lib/norm/project.sublime-project"
+			],
+			[
+				"naked-the",
+				"~/workspaces/php/themes/naked-theme/project.sublime-project"
+			],
+			[
+				"v2",
+				"~/workspaces/php/themes/v2-theme/project.sublime-project"
+			],
+			[
+				"bonoau",
+				"~/workspaces/php/lib/bono-auth/project.sublime-project"
+			],
+			[
+				"bono-the",
+				"~/workspaces/php/themes/bono-theme/project.sublime-project"
+			],
+			[
+				"v2the",
+				"~/workspaces/php/themes/v2-theme/project.sublime-project"
+			],
+			[
+				"mine2",
+				"~/workspaces/php/app/mine2/project.sublime-project"
+			],
+			[
+				"v",
+				"~/workspaces/php/themes/v2-theme/project.sublime-project"
+			],
+			[
+				"pla",
+				"~/workspaces/php/poc/playground/project.sublime-project"
+			],
+			[
+				"jasm",
+				"~/workspaces/php/app/bt-jams/project.sublime-project"
+			],
+			[
+				"jams",
+				"~/workspaces/php/app/bt-jams/project.sublime-project"
+			],
+			[
+				"account",
+				"~/workspaces/php/app/account/project.sublime-project"
+			],
+			[
+				"play",
+				"~/workspaces/php/poc/playground/project.sublime-project"
+			],
+			[
+				"btja",
+				"~/workspaces/php/app/bt-jams/project.sublime-project"
+			],
+			[
+				"bt-a",
+				"~/workspaces/php/app/bt-jams/project.sublime-project"
+			],
+			[
+				"bt-",
+				"~/workspaces/php/app/bt-jams/project.sublime-project"
+			],
+			[
+				"bono-co",
+				"~/workspaces/php/lib/bono-component/project.sublime-project"
+			],
+			[
+				"thin",
+				"~/workspaces/php/own/think/project.sublime-project"
+			],
+			[
+				"lutho",
+				"~/workspaces/php/app/luthor/project.sublime-project"
+			],
+			[
+				"cms",
+				"~/workspaces/php/app/cms/project.sublime-project"
+			],
+			[
+				"util",
+				"~/workspaces/php/lib/php-util/project.sublime-project"
+			],
+			[
+				"php-u",
+				"~/workspaces/php/lib/php-util/project.sublime-project"
+			],
+			[
+				"bon",
+				"~/workspaces/php/lib/bono-component/project.sublime-project"
+			],
+			[
+				"ph-uti",
+				"~/workspaces/php/lib/php-util/project.sublime-project"
+			],
+			[
+				"min",
+				"~/workspaces/php/app/mine/project.sublime-project"
+			],
+			[
+				"lxc",
+				"~/workspaces/python/LXC-Web-Panel/project.sublime-project"
+			],
+			[
+				"dot",
+				"~/workspaces/dotfiles/project.sublime-project"
+			],
+			[
+				"bro",
+				"/home/jafar/workspaces/sublime-projects/bedrockkurogo"
 			]
 		],
-		"width": 380.0
+		"width": 1366.0
 	},
 	"select_symbol":
 	{
-		"height": 0.0,
+		"height": 392.0,
 		"selected_items":
 		[
+			[
+				"get_head",
+				"get_header"
+			]
 		],
-		"width": 0.0
+		"width": 431.0
 	},
 	"selected_group": 0,
 	"settings":
@@ -1772,7 +1983,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 216.0,
+	"side_bar_width": 356.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
